@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HiBuddies.cpp">
+    <ClCompile Include="alphabet_position.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
