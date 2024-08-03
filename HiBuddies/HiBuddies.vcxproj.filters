@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Create Phone Number.cpp">
+    <ClCompile Include="Beginner Series #2 Clock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
